@@ -6,12 +6,12 @@ import {getAuth} from 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDKbFNrYawj3m2_ncPSJUvpmPrY4xYnT2c",
-  authDomain: "task1-cc6c3.firebaseapp.com",
-  projectId: "task1-cc6c3",
-  storageBucket: "task1-cc6c3.appspot.com",
-  messagingSenderId: "985053274842",
-  appId: "1:985053274842:web:506f14f465f21d9f7b3be3"
+  apiKey: "AIzaSyBS00ba_Wx73BMPwl4MHeCyO6NveBId6j4",
+  authDomain: "task12-a4bb7.firebaseapp.com",
+  projectId: "task12-a4bb7",
+  storageBucket: "task12-a4bb7.appspot.com",
+  messagingSenderId: "580982270984",
+  appId: "1:580982270984:web:ee09ac6ae3f1429f0475bd"
 };
 
 // Initialize Firebase
@@ -19,3 +19,5 @@ const firebaseConfig = {
  const auth = getAuth(app);
 
  export {auth}
+
+

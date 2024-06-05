@@ -68,6 +68,7 @@ gap: 25px;
     background: #8e5dd3;
     color: #fff;
     font-weight: 600;
+    cursor: pointer;
 }
 span{
     padding: 0px 10px;

@@ -27,7 +27,7 @@ const Maincontent = () => {
       </div>
       </div>
       <div>
-        <p className='number' >It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. <p className='readmore'>Read More</p></p>
+        <p className='number' >It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span style={{color:"red"}}>Read More</span></p>
         <img src={wallpic} alt="wallpic.png"/>
       </div>
       <hr className='hr'/>
@@ -55,7 +55,7 @@ const Maincontent = () => {
       </div>
       </div>
       <div>
-        <p className='number' >It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. <p className='readmore'>Read More</p></p>
+        <p className='number' >It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span style={{color:"red"}}>Read More</span></p>
         <img src={wallart2} alt="wallpic.png"/>
       </div>
       <hr/>

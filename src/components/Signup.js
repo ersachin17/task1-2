@@ -57,12 +57,12 @@ const Signup = () => {
                 <RiLockPasswordLine className='icon'/>
                 <input type='password' placeholder=' Password' name='password' value={user.password} onChange={handleChange} />
                 </div>
-            </form>
             {error && <p className="error">{error}</p>}
             <div>
                 <button className='btns' type='submit'>Signup</button> 
                 <span>you have an account !</span> <Link to="/login">Login</Link>
             </div>
+            </form>
         </div>
     )
 };
