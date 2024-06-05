@@ -1,0 +1,71 @@
+.maincontentc{
+    background: #e8e6e6;
+    width: 40vw;
+    border-radius: 9px;
+    margin-top: 60px;
+    height: 100%;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+.comment{
+    display: flex;
+    margin: 5px 10px 5px 10px;
+    align-items: center;
+    margin-left: 30px;
+}
+.heart{
+   width: 20px;
+height: 30px;
+color: black;
+}
+.number{
+    color: black;
+    padding: 0px 10px 0px 10px;
+}
+.Log{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 10px 0px 10px;
+}
+.pic{
+    display: flex;
+}
+.pic img{
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+}
+.readmore{
+    color: red;
+}
+.post1{
+    background-color: rgb(236, 241, 241);
+    margin-bottom: 20px;
+}
+.post2{
+    margin-top: 20px;
+    background-color: rgb(227, 205, 249);
+    margin-bottom: 20px;
+}
+.dollor{
+    display: flex;
+    align-items: center;
+    padding: 0px 10px 0px 10px;
+    color: black;
+}
+.dollor1{
+    margin-right: 100px;
+}
+.star{
+    display: flex;
+}
+.post3{
+    width: 17vw;
+    border-radius: 9px;
+}
+.post4{
+    margin-right: 40px;
+    margin-left: 20px;
+}
+

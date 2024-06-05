@@ -1,0 +1,79 @@
+.sidebar{
+    background-color: #fff;
+    width: 17vw;
+    height: 100%;
+    margin-left: 65px;
+    border-radius: 9px;
+    margin-top: -900px;
+}
+.home{
+   width: 14vw;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    cursor: pointer;
+}
+.home img{
+    width: 20px;
+    height: 15px;
+}
+.shop{
+    width: 13.5vw;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    cursor: pointer; 
+}
+.shop img{
+    color: black;
+}
+.wallet{
+    width: 14.5vw;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    cursor: pointer;
+}
+.notification{
+    width: 17vw;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    cursor: pointer;
+}
+.conversation{
+    width: 17.5vw;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    cursor: pointer;
+}
+.conversation img{
+    width: 20px;
+    height: 15px;
+}
+.subscription{
+    width: 17.5vw;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    cursor: pointer;
+}
+.profile{
+    width: 16.3vw;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    cursor: pointer;
+}
+.profile img{
+    width: 20px;
+    height: 15px;
+}
+.setting{
+    width: 15vw;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    cursor: pointer;
+}
+.logout{
+    width: 15.5vw;
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
+.lg{
+    color: #88C2BB;
+}

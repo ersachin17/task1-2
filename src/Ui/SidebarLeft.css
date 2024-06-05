@@ -1,0 +1,87 @@
+.leftsidebar{
+    margin-top: -750px;
+    background: #e8e6e6;
+    border-radius: 9px;
+    padding: 10px;
+}
+.firstimg{
+    background-image: url(../assets/pexels-ekaterina-12203460.png) ;
+    background-size: cover; /* Makes the background cover the entire element */
+    background-repeat: no-repeat; /* Prevents the background from repeating */
+    background-position: center; 
+    width: 200px;
+    height: 120px;
+    border-radius: 9px;
+    display: flex;
+    align-items: center;
+}
+.letter{
+    display: flex;
+    flex-direction: column;
+}
+.firstimg1{
+    background-image: url(../assets/pexels-genaro-servín-763210.png) ;
+    background-size: cover; /* Makes the background cover the entire element */
+    background-repeat: no-repeat; /* Prevents the background from repeating */
+    background-position: center; 
+    width: 200px;
+    height: 120px;
+    border-radius: 9px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.firstimg2{
+    background-image: url(../assets/pexels-pixabay-164455.png);
+    background-size: cover; /* Makes the background cover the entire element */
+    background-repeat: no-repeat; /* Prevents the background from repeating */
+    background-position: center; 
+    width: 200px;
+    height: 120px;
+    border-radius: 9px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.firstimg3{
+    background-image: url(../assets/pexels-steve-johnson-1269968.png);
+    background-size: cover; /* Makes the background cover the entire element */
+    background-repeat: no-repeat; /* Prevents the background from repeating */
+    background-position: center; 
+    width: 200px;
+    height: 120px;
+    border-radius: 9px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.firstimg4{
+    background-image: url(../assets/pexels-fiona-art-5022849.png);
+    background-size: cover; /* Makes the background cover the entire element */
+    background-repeat: no-repeat; /* Prevents the background from repeating */
+    background-position: center; 
+    width: 200px;
+    height: 80px;
+    border-radius: 9px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.content{
+    color: rgb(227, 222, 222);
+    font-weight: 600;
+    font-size: 7px;
+}
+.contents{
+    font-size: medium;
+    font-weight: 500;
+    color: rgb(227, 222, 222);
+}
+.page{
+    color: black;
+}
+.last{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+}
